@@ -26,7 +26,5 @@ KJ Connect is a private microblogging platform modeled after Twitter, built excl
 
 If you're familiar with Twitter, you'll feel right at home on KJ Connect. Post tweets, follow interesting accounts, and stay engaged with all the happenings at KJ Somaiya.
 
-## Developers
+Deployed website Demo: [KJConnect](https://kjconnect.000webhostapp.com/index.php)
 
-- Mihir Subramaniam
-- Smit Thakare
